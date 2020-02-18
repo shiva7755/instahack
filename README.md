@@ -27,4 +27,4 @@ proxybroker
 
 ## Screenshots
 ###### [*] Hack instagram accounts use bruteforce
-![alt tag](https://raw.githubusercontent.com/avramith/instahack/master/screenshot.png)
+![alt tag](https://raw.githubusercontent.com/shiva7755/master/screenshot.png)
